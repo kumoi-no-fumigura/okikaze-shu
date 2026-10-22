@@ -1,0 +1,691 @@
+{
+ "work": "興風集",
+ "work_id": "zkt-kofu",
+ "repo": "kumoi-no-fumigura/okikaze-shu",
+ "yomi": "おきかぜしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安前期",
+ "author": "藤原興風",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-kofu-0001",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "寛平の御時の中宮の和歌合に",
+   "author": "",
+   "text": "於花は千種乍らにあだなれど誰かは春を恨果てたる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0002",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "No春春色の千種に見えつるはたなびく山の花の影かも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0003",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "聲たてゝ冬チけけ鶯一年に二度とだにくべき春かは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0004",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "の契りけむ心ぞつらき七夕の年に一度逢ふはあふかは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0005",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "「白波に秋の木葉の浮べるは覆の流せる舟かとぞ見る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0006",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓君戀ふる淚の床にみちぬれば溶標とぞ我はなりぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0007",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "補近くふりくる雪は白波の末の松山こすかとぞ見る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0008",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "死る命いきもやすると試に玉のを計逢むと云はなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0009",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "同じ御時にふる歌奉れと仰せごとありければ立田川もみぢ葉流るといふ歌に書きて同じ心に",
+   "author": "",
+   "text": "深山より落ちくる水の色見てぞ秋は限と思知りぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0010",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "が折からに我名は立ちぬ女郞花いざ同くは花々に見む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0011",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋野の露におかるゝ女郎花拂ふ人なみ侘つゝぞふる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0012",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓女郞花花の心のあだなれば秋にのみこそ逢渡りけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0013",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "貞保の親王の后の五十賀奉り給ひけるに御屏風の給に櫻の花見たる所",
+   "author": "",
+   "text": "か徒に過る月日はおほかれど花みて暮す春ぞすくなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0014",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "親のまもりけるむすめをいと忍びてあひて物いひける程に親のあふといひければ急ぎていりにけるそのも返すとて",
+   "author": "",
+   "text": "送ふ迄の形見とてこそ留めけめ涙に浮ぶ藻屑也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0015",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一恨ても泣ても云む方ぞなき鏡に見ゆる影ならずして",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0016",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一何か其名に立つ〓との惜からむ知りて感ふは我獨かは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0017",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一本葉ちる浦に波立秋なれば紅葉と任花も咲紛ひけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0018",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山風の花のかさそふ麓には春の霞ぞほだしなりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0019",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "薄くこき色は紛へど花といへば一つ顏にも見え渡る哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0020",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "れきつゝのみ鳴く鶯の古里は散にし梅の花にざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0021",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山里は春のほだしに閉られて住かまどへる爲ぞ鳴く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0022",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓すず飽てし行過行く春を直ちあらば今年計の秋をよかなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0023",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "蠶吹く山の麓にちる雪はとく散る梅の花かとぞ見る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0024",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〇〇夜夜の月は程なくあけ乍ら朝のまをぞ喞ちよせける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0025",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。夏の日の光惜まず照る月は流るゝ水に影ぞうつらふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0026",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "50睦まじく圍ひ隔てぬ杜若誰が方にかは移ろひつらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0027",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "10山の井は水なき〓とも見えね共秋の紅葉の散て隠せば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0028",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "peに皮はへ螢の消舟は命にかはるみるめ刈りにぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0029",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。夢にだに人の思に任せなむ見ては心の慰む物からね",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0030",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "わ身をも且思ふ物から戀といへば燃る中にもいる心哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0031",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "○山川の菊の下水いかなれば流て人の老はせざれらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0032",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "小0そぞらの月の光を足柄の山のこなたは秋にざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0033",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加渓川底はかいみに〓けれど戀しき人の影も見えぬを",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0034",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓小倉山嶺、紅紅は散にしを照てぞ見ゆるしきにしければ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0035",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一浦近く立つ朝霧は藻鹽やく煙とのみぞ過またれける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0036",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一筑波ねの陰に生にし宿なれば光のおふる物とだに見ず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0037",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "霜の上に跡踏とむる濱千鳥行方もなしと音をのみぞ鳴",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0038",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓戀しとも今は思はず魂の相見ぬさきになく成ぬれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0039",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "哀とも心も行ぬ夢路をばはかなき物とむべも云けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0040",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "へ歎きみる斧の響の聞えぬは山の山彥いづちいにしぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0041",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "蓬見てもかひ無りけり島玉のはかなき夢に劣る現は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0042",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ヘ〓鶴鶴のいづれの朝か鳴かざらむ思ふ心のゆかぬ限は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0043",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "夢にだに逢見ず乍ら消ねとや戀き〓との唯にさむらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0044",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓泣侘て世を空蟬となりぬれば恨むる〓とも今は聞えず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0045",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一侘ぬれば强て忘れむと思へ共夢てふ物ぞ人賴めなる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0046",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三うきてぬる鴨の上毛に置霜の消て物思ふ頃にも有哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0047",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三こぼれてもあれば譬て慰めし長柄の橋も今は聞えず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0048",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "戀しさに身を投つべし慰むることに從ふ心ならねば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0049",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一身は捨つ心をだにもはぶらさじ遂には如何なると見べく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0050",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "雄誰かかしる人にせむ高砂の松も昔の友ならなくに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-kofu-0051",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一ははかかららむ白雪の花と見るまでえだにふれゝば",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
