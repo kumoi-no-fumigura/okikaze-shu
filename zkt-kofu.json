@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 51,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-kofu-0001",
@@ -758,7 +761,7 @@
   "blocks": 51,
   "chars": 1188,
   "poems": 51,
-  "yaku": 0,
+  "yaku": 51,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T21:24:37+09:00"
